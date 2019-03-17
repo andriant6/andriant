@@ -2706,3 +2706,51 @@ http://31.220.1.190:8080/live/WuYC3qhd9/65udrOt48Y/65977.m3u8
 http://31.220.1.190:8080/live/WuYC3qhd9/65udrOt48Y/89243.m3u8
 #EXTINF:-1  tvg-logo="http://image.azuza.web.id/images/agus-1545452020.jpg" group-title="DENMARK", Viasat Sport HD
 http://31.220.1.190:8080/live/WuYC3qhd9/65udrOt48Y/164378.m3u8
+
+#EXTINF:-1  tvg-logo="http://image.azuza.web.id/images/agus-1545452020.jpg" group-title="CHILE", 13 C CHILE
+http://31.220.1.190:8080/live/WuYC3qhd9/65udrOt48Y/77802.m3u8
+#EXTINF:-1  tvg-logo="http://image.azuza.web.id/images/agus-1545452020.jpg" group-title="CHILE", 13 CABLE (Chile)
+http://31.220.1.190:8080/live/WuYC3qhd9/65udrOt48Y/99832.m3u8
+#EXTINF:-1  tvg-logo="http://image.azuza.web.id/images/agus-1545452020.jpg" group-title="CHILE", 13 HD
+http://31.220.1.190:8080/live/WuYC3qhd9/65udrOt48Y/116057.m3u8
+#EXTINF:-1  tvg-logo="http://image.azuza.web.id/images/agus-1545452020.jpg" group-title="CHILE", CANAL 13 HD
+http://31.220.1.190:8080/live/WuYC3qhd9/65udrOt48Y/68475.m3u8
+#EXTINF:-1  tvg-logo="http://image.azuza.web.id/images/agus-1545452020.jpg" group-title="CHILE", CDF PREMIUM HD
+http://31.220.1.190:8080/live/WuYC3qhd9/65udrOt48Y/68484.m3u8
+#EXTINF:-1  tvg-logo="http://image.azuza.web.id/images/agus-1545452020.jpg" group-title="CHILE", CDO
+http://31.220.1.190:8080/live/WuYC3qhd9/65udrOt48Y/116056.m3u8
+#EXTINF:-1  tvg-logo="http://image.azuza.web.id/images/agus-1545452020.jpg" group-title="CHILE", CDO PREMIUM HD
+http://31.220.1.190:8080/live/WuYC3qhd9/65udrOt48Y/68822.m3u8
+#EXTINF:-1  tvg-logo="http://image.azuza.web.id/images/agus-1545452020.jpg" group-title="CHILE", Chilevison
+http://31.220.1.190:8080/live/WuYC3qhd9/65udrOt48Y/99830.m3u8
+#EXTINF:-1  tvg-logo="http://image.azuza.web.id/images/agus-1545452020.jpg" group-title="CHILE", CNN CHILE
+http://31.220.1.190:8080/live/WuYC3qhd9/65udrOt48Y/68456.m3u8
+#EXTINF:-1  tvg-logo="http://image.azuza.web.id/images/agus-1545452020.jpg" group-title="CHILE", CNN ESPANOL HD
+http://31.220.1.190:8080/live/WuYC3qhd9/65udrOt48Y/148779.m3u8
+#EXTINF:-1  tvg-logo="http://image.azuza.web.id/images/agus-1545452020.jpg" group-title="CHILE", EL PINGUINO TV
+http://31.220.1.190:8080/live/WuYC3qhd9/65udrOt48Y/99964.m3u8
+#EXTINF:-1  tvg-logo="http://image.azuza.web.id/images/agus-1545452020.jpg" group-title="CHILE", Enlace
+http://31.220.1.190:8080/live/WuYC3qhd9/65udrOt48Y/99965.m3u8
+#EXTINF:-1  tvg-logo="http://image.azuza.web.id/images/agus-1545452020.jpg" group-title="CHILE", FOX SPORT 2
+http://31.220.1.190:8080/live/WuYC3qhd9/65udrOt48Y/130917.m3u8
+#EXTINF:-1  tvg-logo="http://image.azuza.web.id/images/agus-1545452020.jpg" group-title="CHILE", FOX SPORTS
+http://31.220.1.190:8080/live/WuYC3qhd9/65udrOt48Y/122384.m3u8
+#EXTINF:-1  tvg-logo="http://image.azuza.web.id/images/agus-1545452020.jpg" group-title="CHILE", FOX SPORTS 1
+http://31.220.1.190:8080/live/WuYC3qhd9/65udrOt48Y/68902.m3u8
+#EXTINF:-1  tvg-logo="http://image.azuza.web.id/images/agus-1545452020.jpg" group-title="CHILE", LA RED HD
+http://31.220.1.190:8080/live/WuYC3qhd9/65udrOt48Y/68479.m3u8
+#EXTINF:-1  tvg-logo="http://image.azuza.web.id/images/agus-1545452020.jpg" group-title="CHILE", MEGA HD
+http://31.220.1.190:8080/live/WuYC3qhd9/65udrOt48Y/77780.m3u8
+#EXTINF:-1  tvg-logo="http://image.azuza.web.id/images/agus-1545452020.jpg" group-title="CHILE", REC TV
+http://31.220.1.190:8080/live/WuYC3qhd9/65udrOt48Y/68898.m3u8
+#EXTINF:-1  tvg-logo="http://image.azuza.web.id/images/agus-1545452020.jpg" group-title="CHILE", TVN Chile HD
+http://31.220.1.190:8080/live/WuYC3qhd9/65udrOt48Y/140233.m3u8
+#EXTINF:-1  tvg-logo="http://image.azuza.web.id/images/agus-1545452020.jpg" group-title="CHILE", TVN HD
+http://31.220.1.190:8080/live/WuYC3qhd9/65udrOt48Y/68370.m3u8
+#EXTINF:-1  tvg-logo="http://image.azuza.web.id/images/agus-1545452020.jpg" group-title="CHILE", UCV TV
+http://31.220.1.190:8080/live/WuYC3qhd9/65udrOt48Y/68883.m3u8
+#EXTINF:-1  tvg-logo="http://image.azuza.web.id/images/agus-1545452020.jpg" group-title="CHILE", VALLE TELEVISION HD
+http://31.220.1.190:8080/live/WuYC3qhd9/65udrOt48Y/99973.m3u8
+#EXTINF:-1  tvg-logo="http://image.azuza.web.id/images/agus-1545452020.jpg" group-title="CHILE", VTV
+http://31.220.1.190:8080/live/WuYC3qhd9/65udrOt48Y/64622.m3u8
+
