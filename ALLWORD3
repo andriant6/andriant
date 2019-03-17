@@ -2567,3 +2567,67 @@ http://31.220.1.190:8080/live/WuYC3qhd9/65udrOt48Y/66144.m3u8
 http://31.220.1.190:8080/live/WuYC3qhd9/65udrOt48Y/95335.m3u8
 #EXTINF:-1  tvg-logo="http://image.azuza.web.id/images/agus-1545452020.jpg" group-title="GREECE", Zouzounia TV
 http://31.220.1.190:8080/live/WuYC3qhd9/65udrOt48Y/157419.m3u8
+
+#EXTINF:-1  tvg-logo="http://image.azuza.web.id/images/agus-1545452020.jpg" group-title="DOMINICAN",Antena Latina
+http://31.220.1.190:8080/live/WuYC3qhd9/65udrOt48Y/97705.m3u8
+#EXTINF:-1  tvg-logo="http://image.azuza.web.id/images/agus-1545452020.jpg" group-title="DOMINICAN", CANAL 9
+http://31.220.1.190:8080/live/WuYC3qhd9/65udrOt48Y/118870.m3u8
+#EXTINF:-1  tvg-logo="http://image.azuza.web.id/images/agus-1545452020.jpg" group-title="DOMINICAN",CDN2
+http://31.220.1.190:8080/live/WuYC3qhd9/65udrOt48Y/97698.m3u8
+#EXTINF:-1  tvg-logo="http://image.azuza.web.id/images/agus-1545452020.jpg" group-title="DOMINICAN",Cinevision Canal 19
+http://31.220.1.190:8080/live/WuYC3qhd9/65udrOt48Y/116121.m3u8
+#EXTINF:-1  tvg-logo="http://image.azuza.web.id/images/agus-1545452020.jpg" group-title="DOMINICAN", COLORVISION
+http://31.220.1.190:8080/live/WuYC3qhd9/65udrOt48Y/99844.m3u8
+#EXTINF:-1  tvg-logo="http://image.azuza.web.id/images/agus-1545452020.jpg" group-title="DOMINICAN", DIGITAL 15 HD
+http://31.220.1.190:8080/live/WuYC3qhd9/65udrOt48Y/68499.m3u8
+#EXTINF:-1  tvg-logo="http://image.azuza.web.id/images/agus-1545452020.jpg" group-title="DOMINICAN", RNN
+http://31.220.1.190:8080/live/WuYC3qhd9/65udrOt48Y/197160.m3u8
+#EXTINF:-1  tvg-logo="http://image.azuza.web.id/images/agus-1545452020.jpg" group-title="DOMINICAN", Super TV 55
+http://31.220.1.190:8080/live/WuYC3qhd9/65udrOt48Y/150835.m3u8
+#EXTINF:-1  tvg-logo="http://image.azuza.web.id/images/agus-1545452020.jpg" group-title="DOMINICAN",Tele Antillas
+http://31.220.1.190:8080/live/WuYC3qhd9/65udrOt48Y/97706.m3u8
+#EXTINF:-1  tvg-logo="http://image.azuza.web.id/images/agus-1545452020.jpg" group-title="DOMINICAN", TELEANTILLAS 2
+http://31.220.1.190:8080/live/WuYC3qhd9/65udrOt48Y/197162.m3u8
+#EXTINF:-1  tvg-logo="http://image.azuza.web.id/images/agus-1545452020.jpg" group-title="DOMINICAN",TELECENTRO
+http://31.220.1.190:8080/live/WuYC3qhd9/65udrOt48Y/97701.m3u8
+#EXTINF:-1  tvg-logo="http://image.azuza.web.id/images/agus-1545452020.jpg" group-title="DOMINICAN", TeleMicro
+http://31.220.1.190:8080/live/WuYC3qhd9/65udrOt48Y/97707.m3u8
+#EXTINF:-1  tvg-logo="http://image.azuza.web.id/images/agus-1545452020.jpg" group-title="DOMINICAN", TELEMICRO INTERNACIONAL HD
+http://31.220.1.190:8080/live/WuYC3qhd9/65udrOt48Y/107162.m3u8
+#EXTINF:-1  tvg-logo="http://image.azuza.web.id/images/agus-1545452020.jpg" group-title="DOMINICAN", TELENORD 8
+http://31.220.1.190:8080/live/WuYC3qhd9/65udrOt48Y/159815.m3u8
+#EXTINF:-1  tvg-logo="http://image.azuza.web.id/images/agus-1545452020.jpg" group-title="DOMINICAN", TELENORD 10
+http://31.220.1.190:8080/live/WuYC3qhd9/65udrOt48Y/159814.m3u8
+#EXTINF:-1  tvg-logo="http://image.azuza.web.id/images/agus-1545452020.jpg" group-title="DOMINICAN", TELESISTEMA
+http://31.220.1.190:8080/live/WuYC3qhd9/65udrOt48Y/97702.m3u8
+#EXTINF:-1  tvg-logo="http://image.azuza.web.id/images/agus-1545452020.jpg" group-title="DOMINICAN",Teleunion
+http://31.220.1.190:8080/live/WuYC3qhd9/65udrOt48Y/97703.m3u8
+#EXTINF:-1  tvg-logo="http://image.azuza.web.id/images/agus-1545452020.jpg" group-title="DOMINICAN", Teleuniverso
+http://31.220.1.190:8080/live/WuYC3qhd9/65udrOt48Y/97704.m3u8
+#EXTINF:-1  tvg-logo="http://image.azuza.web.id/images/agus-1545452020.jpg" group-title="DOMINICAN",TRA DIGITAL
+http://31.220.1.190:8080/live/WuYC3qhd9/65udrOt48Y/197163.m3u8
+
+
+#EXTINF:-1  tvg-logo="http://image.azuza.web.id/images/agus-1545452020.jpg" group-title="ECUADOR", Canal Uno HD
+http://31.220.1.190:8080/live/WuYC3qhd9/65udrOt48Y/116105.m3u8
+#EXTINF:-1  tvg-logo="http://image.azuza.web.id/images/agus-1545452020.jpg" group-title="ECUADOR", CNT Sports 1
+http://31.220.1.190:8080/live/WuYC3qhd9/65udrOt48Y/116096.m3u8
+#EXTINF:-1  tvg-logo="http://image.azuza.web.id/images/agus-1545452020.jpg" group-title="ECUADOR", Ecuador Tv 7
+http://31.220.1.190:8080/live/WuYC3qhd9/65udrOt48Y/116095.m3u8
+#EXTINF:-1  tvg-logo="http://image.azuza.web.id/images/agus-1545452020.jpg" group-title="ECUADOR", Ecuavisa HD
+http://31.220.1.190:8080/live/WuYC3qhd9/65udrOt48Y/116097.m3u8
+#EXTINF:-1  tvg-logo="http://image.azuza.web.id/images/agus-1545452020.jpg" group-title="ECUADOR", Ecuavisa Internacional HD
+http://31.220.1.190:8080/live/WuYC3qhd9/65udrOt48Y/116098.m3u8
+#EXTINF:-1  tvg-logo="http://image.azuza.web.id/images/agus-1545452020.jpg" group-title="ECUADOR", Gamatv HD
+http://31.220.1.190:8080/live/WuYC3qhd9/65udrOt48Y/116107.m3u8
+#EXTINF:-1  tvg-logo="http://image.azuza.web.id/images/agus-1545452020.jpg" group-title="ECUADOR",GOL TV HD
+http://31.220.1.190:8080/live/WuYC3qhd9/65udrOt48Y/116099.m3u8
+#EXTINF:-1  tvg-logo="http://image.azuza.web.id/images/agus-1545452020.jpg" group-title="ECUADOR", RTS HD
+http://31.220.1.190:8080/live/WuYC3qhd9/65udrOt48Y/116100.m3u8
+#EXTINF:-1  tvg-logo="http://image.azuza.web.id/images/agus-1545452020.jpg" group-title="ECUADOR", TC HD
+http://31.220.1.190:8080/live/WuYC3qhd9/65udrOt48Y/116102.m3u8
+#EXTINF:-1  tvg-logo="http://image.azuza.web.id/images/agus-1545452020.jpg" group-title="ECUADOR", Tc Mi Canal FHD
+http://31.220.1.190:8080/live/WuYC3qhd9/65udrOt48Y/116103.m3u8
+#EXTINF:-1  tvg-logo="http://image.azuza.web.id/images/agus-1545452020.jpg" group-title="ECUADOR", Teleamazonas HD
+http://31.220.1.190:8080/live/WuYC3qhd9/65udrOt48Y/116104.m3u8
+
